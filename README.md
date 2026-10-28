@@ -22,14 +22,6 @@ run train.py for training C2MVC
 
 ------
 
-## Datasets
-
-[Click here](https://pan.baidu.com/s/1IGlPMsQ6WsuXmu2i5By9zA) to access all datasets.
-
-Key: CMVC
-
-------
-
 ## Experiment Results
 
 We compare our proposed C2MVC with 8 state-of-the-art multi-view clustering methods:
